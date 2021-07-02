@@ -99,7 +99,7 @@ class _NoteListScreenState extends State<NoteListScreen> {
         children: [
 
           Text(
-            'ZaYnee\'s NOTES',
+          'Hello,Ali',
             style: headerNotesStyle,
           ),
         ],

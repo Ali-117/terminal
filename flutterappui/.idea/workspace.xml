@@ -1,11 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b32aa21-7c67-4099-b72d-efbf92f2acd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/costants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widget/delete_popup.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widget/list_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/image/zain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/note_list_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/note_list_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/signup_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/signup_screen.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ukyuJSfsCJ0BYD2B6yBQarc9V0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/SDK" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/Github/FA17-BCS-117/S2/Flutter-TicTacToe-master" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Uzair\OneDrive\Documents\Github\FA17-BCS-117\terminal\terminal\flutterappui" />
+      <recent name="C:\Users\Uzair\OneDrive\Documents\Github\FA17-BCS-117\terminal\terminal\flutterappui\lib" />
+      <recent name="C:\Users\Uzair\OneDrive\Documents\Github\FA17-BCS-117\terminal\terminal\flutterappui\Android" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b32aa21-7c67-4099-b72d-efbf92f2acd1" name="Default Changelist" comment="" />
+      <created>1625224102517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625224102517</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="475" y="227" key="scopes" timestamp="1625228622257">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="475" y="227" key="scopes/0.0.1366.738@0.0.1366.738" timestamp="1625228622257" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1625228588736">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1625228588736" />
   </component>
 </project>
