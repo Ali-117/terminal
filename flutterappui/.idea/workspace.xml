@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b32aa21-7c67-4099-b72d-efbf92f2acd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/costants.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/widget/delete_popup.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/widget/list_item.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Android/image/zain.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Screens/note_list_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/note_list_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Screens/signup_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/signup_screen.dart" afterDir="false" />
-    </list>
+    <list default="true" id="3b32aa21-7c67-4099-b72d-efbf92f2acd1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
